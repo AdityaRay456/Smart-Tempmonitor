@@ -1,0 +1,9 @@
+.DS_Store
+*.cmd
+*.ko
+*.mod
+*.mod.c
+*.o
+*.order
+*.symvers
+.tmp_versions/
